@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*{padding:0; margin:0; outline:0}
+body{font-family: 'Open Sans', sans-serif;font-size:14px;line-height:18px;}
+.headertop{background:#252323;height:60px}
+.top{}
+.topLeft{float:left;wider:200px}
+.topLeft img {
+	margin-top: 16px;
+}
+.social {
+	float: right;
+	width: 148px;
+}
+.social i {
+	color: #C1C1C1;
+	padding: 0px 7px;
+	font-size: 25px;
+	line-height: 60px;
+}
